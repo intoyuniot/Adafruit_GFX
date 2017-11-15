@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_GFX",
+    "version": "1.0.0",
+    "keywords": "GFX,OLED",
+    "description": "Adafruit GFX 图形库，定义了一些图形的基类供其他库调用",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_GFX.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
